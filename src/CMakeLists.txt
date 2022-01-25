@@ -1,0 +1,2 @@
+add_subdirectory(AudioLib)
+add_subdirectory(AudioDeviceSwitcher)
